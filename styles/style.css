@@ -280,16 +280,16 @@
   background-color: #1f1f1f;
   color: white;
   padding-top: 60px;
-  padding-bottom: 40px;  
+  padding-bottom: 40px;
 }
 
 
 .footer__columns{
   width: 90%;
   margin: auto;
-  display: flex;  
+  display: flex;
   justify-content: space-between;
-  min-height: 250px;  
+  min-height: 250px;
 }
 
 
@@ -297,7 +297,7 @@
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;  
+  justify-content: space-between; 
 }
 
 .footer__column_content_info{ 
