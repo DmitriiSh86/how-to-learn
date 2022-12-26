@@ -6,19 +6,6 @@
     transition: 0.5s;
 }
 
-.resources__link:nth-child(1){
-    background-image: url(../../../images/logo/resources-arzamas.svg);
-}
-.resources__link:nth-child(2){
-    background-image: url(../../../images/logo/resources-n1.svg);
-}
-.resources__link:nth-child(3){
-    background-image: url(../../../images/logo/resources-strelka.svg);
-}
-.resources__link:nth-child(4){
-    background-image: url(../../../images/logo/resources-polka.svg);
-}
-
 .resources__link:nth-child(1):hover{
     opacity: 50%;
 }
